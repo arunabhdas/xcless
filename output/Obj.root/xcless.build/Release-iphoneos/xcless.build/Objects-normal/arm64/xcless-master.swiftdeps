@@ -1,0 +1,6 @@
+version: "Apple Swift version 2.1 (swiftlang-700.1.101.6 clang-700.1.76)"
+options: "03094fbd3d06c1b13d91b59b7eec0751"
+build_time: [505896617, 178524000]
+inputs:
+  "/Users/coder/repos/ad/githubrepos/xcless/xcless/Controller/ViewController.swift": [505892915, 0]
+  "/Users/coder/repos/ad/githubrepos/xcless/xcless/Application/AppDelegate.swift": [505892915, 0]
